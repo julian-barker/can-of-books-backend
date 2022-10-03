@@ -20,18 +20,19 @@ Javascript, CORS, Express, axios, mongoose, nodemon, Heroku, MongoDB
 ## Change Log
 
 10-03-2022 2:30pm - Completed README.
+10-03-2022 4:30pm - Application connects to mongoose and properly reads data from MongoDB on request from client.
 
 ## Estimates
 
-Name of feature: 
+Name of feature: mongoose and mongo
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1hr
 
-Start time: 
+Start time: 3:15pm
 
-Finish time: 
+Finish time: 4:30pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 1hr 15min
 
 ## Credit and Collaborations
 
