@@ -25,7 +25,7 @@ Javascript, CORS, Express, axios, mongoose, nodemon, Heroku, MongoDB
 
 ## Estimates
 
-Name of feature: mongoose and mongo
+### mongoose and mongo
 
 Estimate of time needed to complete: 1hr
 
@@ -34,6 +34,16 @@ Start time: 3:15pm
 Finish time: 4:30pm
 
 Actual time needed to complete: 1hr 15min
+
+### Add and Delete
+
+Estimate of time needed to complete: 1hr
+
+Start time: 12:45pm
+
+Finish time: 1:15pm
+
+Actual time needed to complete: 30min
 
 ## Credit and Collaborations
 
