@@ -1,7 +1,7 @@
 # Project Name
 
-**Author**: Julian Barker, Mathieu Roberts
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Author**: Julian Barker, Mathieu Roberts, Mehtab Riar
+**Version**: 1.1.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 
@@ -21,6 +21,7 @@ Javascript, CORS, Express, axios, mongoose, nodemon, Heroku, MongoDB
 
 10-03-2022 2:30pm - Completed README.
 10-03-2022 4:30pm - Application connects to mongoose and properly reads data from MongoDB on request from client.
+10-04-2022 1:15pm - Application handles `POST` and `DELETE` requests.
 
 ## Estimates
 
