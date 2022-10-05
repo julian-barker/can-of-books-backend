@@ -22,6 +22,7 @@ const getBooks = books.getBook;
 // const getOneBook = books.getOneBook;
 const addBook = books.addBook;
 const deleteBook = books.deleteBook;
+const updateBook = books.updateBook
 
 
 const PORT = process.env.PORT || 3001;
@@ -40,6 +41,8 @@ app.get('/books', getBooks);
 app.post('/books', addBook);
 
 app.delete('/books/:id', deleteBook);
+
+app.put('/books/:id', updateBook)
 
 app.use((error, req, res) =>{
   res.status(500).send(error.message);
