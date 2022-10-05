@@ -22,6 +22,7 @@ Javascript, CORS, Express, axios, mongoose, nodemon, Heroku, MongoDB
 10-03-2022 2:30pm - Completed README.
 10-03-2022 4:30pm - Application connects to mongoose and properly reads data from MongoDB on request from client.
 10-04-2022 1:15pm - Application handles `POST` and `DELETE` requests.
+10-05-2022 2:53 - Application handles 'PUT'
 
 ## Estimates
 
@@ -44,6 +45,16 @@ Start time: 12:45pm
 Finish time: 1:15pm
 
 Actual time needed to complete: 30min
+
+### Update
+
+Estimate of time needed to complete: 1hr
+
+Start time: 1:15pm
+
+Finish time: 2:15pm
+
+Actual time needed to complete: 1hr
 
 ## Credit and Collaborations
 
